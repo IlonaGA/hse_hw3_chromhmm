@@ -39,6 +39,7 @@ H3k36me3
 
 ## Часть 2
 ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/names.png | width=200)
+<img src="https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/names.png" width=300 align=right>
 С помощью python был получен файл такого вида:
 ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/Data_example.png | width=200)
 
