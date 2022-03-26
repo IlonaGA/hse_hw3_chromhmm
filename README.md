@@ -18,7 +18,7 @@ H3k36me3
 Файл cellmarkfiletable.txt находится в папке src.
 
 ### Картинки из выдачи ChromHMM
-|-|-|-|
+| ------------- | ------------- | ------------- |
 | ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/A549_10_RefSeqTES_neighborhood.png) | ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/A549_10_RefSeqTSS_neighborhood.png) | ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/A549_10_overlap.png) |
 | ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/emissions_10.png) | ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/transitions_10.png) | |
 
