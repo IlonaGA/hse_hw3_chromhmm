@@ -18,10 +18,9 @@ H3k36me3
 Файл cellmarkfiletable.txt находится в папке src.
 
 ### Картинки из выдачи ChromHMM
-Адаптеры были отрезаны везде (но это не требовалось).
 | ENCFF659VLH | ENCFF192ZGO | ENCFF572ZEF |
 | ------------- | ------------- | ------------- | 
-| ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC3.png) |
+| ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/A549_10_RefSeqTES_neighborhood.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC3.png) |
 | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/length1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/length2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/length3.png) |
 | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/ATGC1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/ATGC2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/ATGC3.png) |
 
