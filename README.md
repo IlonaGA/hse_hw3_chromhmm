@@ -36,9 +36,11 @@ H3k36me3
 | Название | Промотор | Промотор | Промотор | - | - | - | Похоже на энхансер | Инсулятор | - |
 
 Промоторы заметные, часто встречаются и находятся перед генами. 
-Табличка с номерами эпигенетических типов, их характерные эпигенетические метки и другие свойства, а также присвоенные им названия
 
 ## Часть 2
+![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB_labeled1.png)
+С помощью python был получен файл такого вида:
+![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB_labeled1.png)
 
 ### Картинки из UCSC GenomeBrowser
 ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB_labeled1.png)
