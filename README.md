@@ -21,8 +21,8 @@ H3k36me3
 | ENCFF659VLH | ENCFF192ZGO | ENCFF572ZEF |
 | ------------- | ------------- | ------------- | 
 | ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/A549_10_RefSeqTES_neighborhood.png) | ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/A549_10_RefSeqTSS_neighborhood.png) | ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/A549_10_overlap.png) |
-| ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/A549_10_overlap.png) | ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/A549_10_overlap.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/length3.png) |
-| ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/ATGC1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/ATGC2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/ATGC3.png) |
+| ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/emissions_10.png) | ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/transitions_10.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/length3.png) |
+
 
 
 ### Картинки из UCSC GenomeBrowser
