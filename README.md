@@ -4,16 +4,16 @@
 Список 10-ти гистоновых меток (и соотв имен файлов) , для которых был сделан анализ
 ### Гистоновые метки
 Клеточная линия: A549  
-H3k79me2  
-H3k09ac  
-H3k04me2  
-H3k27me3  
-H3k27ac  
-H2AZ  
-H3k04me3  
-H3k04me1  
-H3k09me3  
-H3k36me3  
+H3k79me2 wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k79me2Dex100nmAlnRep1.bam -> H3k79me2.bam
+H3k09ac wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k09acEtoh02AlnRep1.bam -> H3k09ac.bam
+H3k04me2 wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k04me2Dex100nmAlnRep1.bam -> H3k04me2.bam
+H3k27me3 wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k27me3Dex100nmAlnRep1.bam -> H3k27me3.bam
+H3k27ac wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k27acDex100nmAlnRep1.bam -> H3k27ac.bam
+H2AZ wgEncodeBroadHistoneA549H2azDex100nmAlnRep1.bam -> H2AZ.bam
+H3k04me3 wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k04me4Dex100nmAlnRep1.bam -> H3k04me4.bam
+H3k04me1  wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k04me1Dex100nmAlnRep1.bam -> H3k04me1.bam
+H3k09me3  wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k09me3Etoh02AlnRep1.bam -> H3k09me3.bam
+H3k36me3 wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k36me3Dex100nmAlnRep1.bam -> H3k36me3.bam
 
 Файл cellmarkfiletable.txt находится в папке src.
 
