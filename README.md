@@ -3,7 +3,8 @@
 ## Часть 1
 Список 10-ти гистоновых меток (и соотв имен файлов) , для которых был сделан анализ
 ### Гистоновые метки
-Клеточная линия: A549  
+Клеточная линия: **A549**  
+  
 H3k79me2  
 wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k79me2Dex100nmAlnRep1.bam -> H3k79me2.bam  
 H3k09ac  
@@ -25,7 +26,7 @@ wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k09me3Etoh02AlnRep1.bam -> H3k09m
 H3k36me3  
 wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k36me3Dex100nmAlnRep1.bam -> H3k36me3.bam  
 
-Файл cellmarkfiletable.txt находится в папке src.
+Файл **cellmarkfiletable.txt** находится в папке src.
 
 ### Картинки из выдачи ChromHMM
 | | | | 
