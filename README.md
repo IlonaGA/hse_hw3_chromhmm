@@ -26,13 +26,13 @@ H3k36me3
 
 
 ### Картинки из UCSC GenomeBrowser
-![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB1_labeled.png)
-![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB2_labeled.png)
-![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB3_labeled.png)
+![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB1.png)
+![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB2.png)
+![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB3.png)
 
 ## Часть 2
 
 ### Картинки из UCSC GenomeBrowser
-![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB1.png)
-![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB2.png)
-![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB3.png)
+![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB_labeled1.png)
+![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB_labeled2.png)
+
