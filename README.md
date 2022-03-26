@@ -40,7 +40,7 @@ H3k36me3
 ## Часть 2
 <img src="https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/names.png" width=400>
 С помощью python был получен файл такого вида:
-<img src="https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/Data_example.png" width=400>
+<img src="https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/Data_example.png" width=600>
 
 ### Картинки из UCSC GenomeBrowser
 ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB_labeled1.png)
