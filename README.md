@@ -38,9 +38,9 @@ H3k36me3
 Промоторы заметные, часто встречаются и находятся перед генами. 
 
 ## Часть 2
-![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB_labeled1.png)
+![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/names.png)
 С помощью python был получен файл такого вида:
-![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB_labeled1.png)
+![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/Data_example.png)
 
 ### Картинки из UCSC GenomeBrowser
 ![ ](https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/GB_labeled1.png)
