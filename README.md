@@ -43,10 +43,9 @@ wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k36me3Dex100nmAlnRep1.bam -> H3k3
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- |  ------------- | ------------- | ------------- |   
-| Частые гистоновые метки | H3k04me2, H3k04me3 | H3k04me2, H3k04me3 |H3k04me2, H3k04me3 | - | - | - | H3k04me3 | H3k04me1, H3k04me2, H3k04me3  | - |
-| Название | Промотор | Промотор | Промотор | - | - | - | Похоже на энхансер | Инсулятор | - |
+| Частые гистоновые метки | H3K27me3 | H3k04me1, H3K27me3 |H3k04me2, H3k04me3 | H3K09me3, H3K27me3 | H3K09me3 | H3K04me1, H3K04me2, H3K04me3 | H3K04me2, H3k04me3 | H3k04me1, H3k04me2, H3k04me3  | - |
+| Название | Promoter (не попадает на ген, находится перед ним) | Weak promoter (не попадает на ген, находится на ядерной ламине) | Похоже на Weak promoter (не попадает на ген, находится на ядерной ламине)| Enhancer (не на гене и вряд ли промотер) | Enhancer (далеко от генов) | Похоже на enhancer | Похоже на enhancer | Insulator | Transcriptional elogation |
 
-Промоторы заметные, часто встречаются и находятся перед генами. 
 
 ## Часть 2
 <img src="https://github.com/IlonaGA/hse_hw3_chromhmm/blob/main/images/names.png" width=400>
